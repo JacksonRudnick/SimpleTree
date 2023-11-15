@@ -1,6 +1,6 @@
 # SimpleTree
 
-Base File Tree Display implemented using Rust.
+Basic File Tree Display implemented using Rust.
 
 # Example
 
