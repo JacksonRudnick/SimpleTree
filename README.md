@@ -2,7 +2,7 @@
 
 Base File Tree Display implemented using Rust.
 
-#Example
+# Example
 
 cargo run -- ~/
 
